@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+python-docx
+python-pptx
+transformers
+torch
+accelerate
+python-dotenv
